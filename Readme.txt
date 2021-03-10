@@ -1,4 +1,4 @@
-*****  This Code is for Educational Purpose. It is Not for Resale****
+*****  This Code is for Educational Purpose. It is Not for sale or re-sale ****
 User Guide  
 1. Make sure your system have a camera.
 2. Run createDS.py to create a Data set.
